@@ -4,7 +4,7 @@
   
 # ✨JeongEun✨
   
-[![허정은](https://img.shields.io/badge/허정은-FFF5A2.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://velog.io/@wjddms0501)
+[![허정은](https://img.shields.io/badge/허정은-20C997.svg?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@wjddms0501)
 
 <!-- -[[Notion: YouTube Clone Project]](https://www.notion.so/5-04cc05359fd4423fbf6555ca7f71aa6d) -->
 
