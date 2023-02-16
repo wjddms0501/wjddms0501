@@ -2,9 +2,9 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFDFDF&height=200&section=header&text=Hello&fontSize=90)
   
-# ✨JeongEun's Github✨
+# ✨JeongEun✨
   
-[![허정은](https://img.shields.io/badge/허정은-FFF5A2.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wjddms0501)
+[![허정은](https://img.shields.io/badge/허정은-FFF5A2.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://velog.io/@wjddms0501)
 
 <!-- -[[Notion: YouTube Clone Project]](https://www.notion.so/5-04cc05359fd4423fbf6555ca7f71aa6d) -->
 
